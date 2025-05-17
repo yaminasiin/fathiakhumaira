@@ -4,4 +4,4 @@ st.title("blackiebooandcimot")
 st.write(
     "hii welcome to wekidii, need help"
 )
-st.image(hlo.jpg)
+st.image("haloo.jpg")
