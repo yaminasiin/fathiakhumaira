@@ -2,5 +2,6 @@ import streamlit as st
 
 st.title("blackiebooandcimot")
 st.write(
-    "heyyo my website hoho"
+    "hii welcome to wekidii, need help"
 )
+st.image(haloo.jpg)
