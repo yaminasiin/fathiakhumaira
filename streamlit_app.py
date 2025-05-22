@@ -3,7 +3,7 @@ import streamlit as st
 st.title("blackiebooandcimot")
 st.write(
     "hii welcome to wekidii, need help? "
-)
+
 st.image("haloo.jpg")
 
 st.header("Aplikasi Mengecek Nilai Genap/Ganjil")
